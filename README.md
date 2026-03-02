@@ -1,8 +1,18 @@
 # SunSwap1.5-contracts
 
-[![Tests](https://github.com/sunswapteam/sunswap1.5-contracts/actions/workflows/tests.yml/badge.svg)](https://github.com/sunswapteam/sunswap1.5-contracts/actions/workflows/tests.yml)
-
 This repository contains the core smart contracts for the SunSwap 1.5 Protocol.
+
+## Description
+
+SunSwap 1.5 Protocol id upgrade from sunswap 1.0 Protocol，we have discontinued support for BTT token（TRC10）and optimized parts of the codebase.
+
+SunSwap 1.5 Protocol is TRX-TRC20 liquidity pool protocol，we  rely on  `X * Y = K` model for managing liquidity and performing exchange operations.
+
+## Deployments
+
+|contract|address|
+|:---|:---|
+|Factory |TB2LM4iegvhPJGWn9qizeefkPMm7bqqaMs|
 
 ## Compile and Deployment
 
